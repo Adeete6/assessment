@@ -10,5 +10,5 @@
 > Step 4: Define another variable called value which is holding json data called obj.
 > 
 > Step 5: Now call the created function and print the values of nested keys.
-> 
-<img width="976" alt="Screenshot 2024-02-27 at 7 19 15 AM" src="https://github.com/Adeete6/assessment/assets/155286861/b6eedf0e-716e-4c03-8de4-37052529e045">
+>
+> <img width="968" alt="Screenshot 2024-02-27 at 7 37 31 AM" src="https://github.com/Adeete6/assessment/assets/155286861/2be374f4-d92f-49b0-a7c4-ff2420e62cd7">
