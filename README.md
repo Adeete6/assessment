@@ -7,6 +7,7 @@
 > 4. Deploy the Configuration: Run terraform apply to apply the configuration and create the necessary resources. Terraform will prompt you to confirm the action. Type yes and press Enter to proceed.
 > 5. Retrieve Instance Metadata: Once the deployment is complete, Terraform will output the instance metadata in JSON format. You can find this output in the terminal.
 > 6. Test Specific Metadata Value: If you want to test retrieving a specific metadata value, you can use the output value named specific_metadata_value. This will output the value of the specific key you specified in the Terraform configuration.
+> 7. To get specific data using CLI , give : < $ curl http://169.254.169.254/latest/meta-data/public-ipv4 >
 # Challenge 3 : We have a nested object. We would like a function where you pass in the object and a key and get back the value.
 > Step 1: Declare a Json object called data.
 > 
